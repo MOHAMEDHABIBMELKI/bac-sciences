@@ -1,0 +1,4 @@
+Flask==2.3.2
+PyMuPDF==1.23.0
+Pillow==10.0.1
+gunicorn==20.1.0

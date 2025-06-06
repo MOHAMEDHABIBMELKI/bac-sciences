@@ -1,0 +1,388 @@
+{
+  "chimie": {
+    "units": {
+      "UNITE_I_CINETIQUE_CHIMIQUE": {
+        "nom": "I Cinetique Chimique",
+        "themes": {
+          "1_CINETIQUE_CHIMIQUE": {
+            "nom": "1 Cinetique Chimique",
+            "concepts": [
+              "AVANCEMENT D’UNE REACTION CHIMIQUE",
+              "VITESSE D’UNE REACTION CHIMIQUE",
+              "PRINCIPAUX FACTEURS CINETIQUES",
+              "Transformation lente - transformation rapide",
+              "Evolution de l'avancement d'une réaction",
+              "Vitesse moyenne",
+              "Vitesse instantanée",
+              "Vitesse volumique : \\frac{1}{V} \\frac{dx}{dt}",
+              "Concentration",
+              "Température",
+              "Catalyse",
+              "Définition d’un catalyseur",
+              "Catalyse homogène et catalyse hétérogène",
+              "Importance économique de la catalyse",
+              "Catalyse enzymatique",
+              "Quantité utilisée du catalyseur",
+              "Spécificité d’un catalyseur",
+              "Sélectivité des catalyseurs"
+            ]
+          }
+        }
+      },
+      "UNITE_II_NOTION_D_EQUILIBRE_CHIMIQUE_ET_LOI_D_ACTION_DE_MASSE": {
+        "nom": "Ii Notion D Equilibre Chimique Et Loi D Action De Masse",
+        "themes": {
+          "2_NOTION_D_EQUILIBRE_CHIMIQUE_ET_LOI_D_ACTION_DE_MASSE": {
+            "nom": "2 Notion D Equilibre Chimique Et Loi D Action De Masse",
+            "concepts": [
+              "Equilibre chimique",
+              "Equilibre dynamique",
+              "Interprétation microscopique de l’équilibre chimique",
+              "Loi d’action de masse",
+              "Fonction des concentrations \\Pi",
+              "Constante d’équilibre K",
+              "K = \\frac{[C]_{éq}^c [D]_{éq}^d}{[A]_{éq}^a [B]_{éq}^b} pour la réaction \\mathrm{aA} + \\mathrm{bB} \\rightleftharpoons \\mathrm{cC} + \\mathrm{dD}",
+              "Constante d’équilibre sans unité",
+              "Systèmes chimiques en phase liquide"
+            ]
+          }
+        }
+      },
+      "UNITE_III_ESTERIFICATION_ET_HYDROLYSE": {
+        "nom": "Iii Esterification Et Hydrolyse",
+        "themes": {
+          "3_ESTERIFICATION_ET_HYDROLYSE": {
+            "nom": "3 Esterification Et Hydrolyse",
+            "concepts": [
+              "Réaction d’estérification",
+              "Hydrolyse",
+              "Loi d’action de masse appliquée à l’estérification et l’hydrolyse",
+              "Fonction des concentrations \\Pi",
+              "Constante d’équilibre K"
+            ]
+          }
+        }
+      },
+      "UNITE_IV_ACIDES_ET_BASES": {
+        "nom": "Iv Acides Et Bases",
+        "themes": {
+          "4_APPLICATION_DE_LA_LOI_D_ACTION_DE_MASSE_AUX_REACTIONS_ACIDE_BASE": {
+            "nom": "4 Application De La Loi D Action De Masse Aux Reactions Acide Base",
+            "concepts": [
+              "Equilibre ionique de l’eau",
+              "Produit ionique de l’eau K_e = [\\mathrm{H}_3\\mathrm{O}^+] \\cdot [\\mathrm{OH}^-]",
+              "Réaction acide-base : \\mathrm{A}_1 + \\mathrm{B}_2 \\rightleftharpoons \\mathrm{A}_2 + \\mathrm{B}_1",
+              "Constante d’acidité K_a = \\frac{[A^-]_{éq} \\cdot [\\mathrm{H}_3\\mathrm{O}^+]_{éq}}{[AH]_{éq}}",
+              "Constante de basicité K_b = \\frac{[BH^+]_{éq} \\cdot [\\mathrm{OH}^-]_{éq}}{[B]_{éq}}",
+              "Relation K_a \\cdot K_b = K_e",
+              "Couple de référence \\mathrm{H}_3\\mathrm{O}^+ / \\mathrm{H}_2\\mathrm{O}",
+              "Réaction totale lorsque K > 10^4"
+            ]
+          },
+          "5_pH_DES_SOLUTIONS_AQUEUSES": {
+            "nom": "5 Ph Des Solutions Aqueuses",
+            "concepts": [
+              "pH",
+              "Expression du pH d’une solution aqueuse d’acide fort ou de base forte",
+              "Expression du pH d’une solution aqueuse d’acide faible ou de base faible",
+              "Concentration initiale C",
+              "\\mathrm{pK}_a = -\\log K_a",
+              "Approximation : ions dus à l’ionisation propre de l’eau négligeables",
+              "Approximation : [A^-] \\ll [AH], soit [AH] = C pour un acide faible",
+              "Approximation : [BH^+] \\ll [B], soit [B] = C pour une base faible",
+              "Ion à caractère acide ou basique (sels)"
+            ]
+          },
+          "6_VARIATION_DU_pH_AU_COURS_D_UNE_REACTION_ENTRE_UN_ACIDE_ET_UNE_BASE": {
+            "nom": "6 Variation Du Ph Au Cours D Une Reaction Entre Un Acide Et Une Base",
+            "concepts": [
+              "Dosage acide-base",
+              "Point d’équivalence",
+              "Point de demi-équivalence",
+              "Acide fort - base forte",
+              "Acide faible - base forte",
+              "Base faible - acide fort",
+              "Courbes d’évolution du pH",
+              "Force de l’acide ou de la base",
+              "Concentration initiale de la solution",
+              "Indicateur coloré",
+              "Zone de virage",
+              "Teinte sensible",
+              "Solutions tampons (\\mathrm{pH} \\approx \\mathrm{pK}_a)"
+            ]
+          }
+        }
+      },
+      "UNITE_VI_PILES_ELECTROCHIMIQUES": {
+        "nom": "Vi Piles Electrochimiques",
+        "themes": {
+          "7_PILES_ELECTROCHIMIQUES": {
+            "nom": "7 Piles Electrochimiques",
+            "concepts": [
+              "Pile Daniell",
+              "Polarité",
+              "Force électromotrice (f.e.m.) E",
+              "Réactions aux électrodes",
+              "Demi-piles",
+              "Sens du courant électrique",
+              "Sens de la réaction spontanée",
+              "Réaction : \\mathrm{Zn}_{(sd)} + \\mathrm{Cu}^{2+} \\rightleftharpoons \\mathrm{Cu}_{(sd)} + \\mathrm{Zn}^{2+}",
+              "Equilibre dynamique",
+              "Fonction usuelle des concentrations \\frac{[\\mathrm{Zn}^{2+}]}{[\\mathrm{Cu}^{2+}]}",
+              "Constante usuelle d’équilibre K = \\frac{[\\mathrm{Zn}^{2+}]_{éq}}{[\\mathrm{Cu}^{2+}]_{éq}}",
+              "E = E^0 - 0,03 \\log \\frac{[\\mathrm{Zn}^{2+}]}{[\\mathrm{Cu}^{2+}]} à \\theta = 25^\\circ \\mathrm{C}",
+              "E^0 = 0,03 \\log K à l’équilibre (E = 0)",
+              "Piles de type Daniell",
+              "Couples redox \\mathrm{Ox}_1 / \\mathrm{Red}_1, \\mathrm{Ox}_2 / \\mathrm{Red}_2",
+              "E = E^0 - \\frac{0,06}{n} \\log \\frac{[\\mathrm{Ox}_2]}{[\\mathrm{Ox}_1]} à \\theta = 25^\\circ \\mathrm{C}",
+              "Demi-pile normale à hydrogène",
+              "Potentiel normal rédox",
+              "Classification électrochimique des couples rédox"
+            ]
+          }
+        }
+      },
+      "UNITE_VII_CHIMIE_ORGANIQUE": {
+        "nom": "Vii Chimie Organique",
+        "themes": {
+          "8_LES_AMIDES_ET_LES_REACTIONS_DE_PASSAGE_ENTRE_LES_DERIVES_D_ACIDES": {
+            "nom": "8 Les Amides Et Les Reactions De Passage Entre Les Derives D Acides",
+            "concepts": [
+              "Amide",
+              "Structure des amides",
+              "Nomenclature des amides",
+              "Dérivés d’acides carboxyliques",
+              "Chlorures d’acyle",
+              "Obtention d’esters à partir des chlorures d’acyle",
+              "Obtention d’amides à partir des chlorures d’acyle",
+              "Obtention d’anhydrides à partir des chlorures d’acyle",
+              "Passage aux esters à partir des anhydrides",
+              "Passage aux amides à partir des anhydrides",
+              "Importance industrielle des dérivés des acides carboxyliques",
+              "Structure aliphatique"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "physique": {
+    "units": {
+      "UNITE_I_EVOLUTION_DE_SYSTEMES_ELECTRIQUES": {
+        "nom": "I Evolution De Systemes Electriques",
+        "themes": {
+          "9_LE_CONDENSATEUR_ET_LE_DIPOLE_RC": {
+            "nom": "9 Le Condensateur Et Le Dipole Rc",
+            "concepts": [
+              "Condensateur",
+              "Dipôle RC",
+              "Charge électrique",
+              "Capacité C",
+              "Courbe d’évolution de la charge électrique q(t)",
+              "Intensité du courant i = \\frac{dq}{dt}",
+              "Grandeur algébrique de l’intensité",
+              "Equation différentielle : charge instantanée q(t), tension u(t), intensité i(t)",
+              "Constante de temps \\tau = R \\cdot C",
+              "Energie emmagasinée : E_e = \\frac{1}{2} C \\cdot u^2",
+              "Capacité d’un condensateur plan : C = \\varepsilon \\frac{S}{e}",
+              "Intérêt pratique des condensateurs"
+            ]
+          },
+          "10_LA_BOBINE_ET_LE_DIPOLE_RL": {
+            "nom": "10 La Bobine Et Le Dipole Rl",
+            "concepts": [
+              "Bobine (solénoïde)",
+              "Dipôle RL",
+              "Induction électromagnétique",
+              "Loi de Lenz",
+              "Force électromotrice d’induction",
+              "Force électromotrice d’auto-induction",
+              "Inductance L",
+              "Equation différentielle : variations de i(t)",
+              "Constante de temps \\tau = \\frac{L}{R}",
+              "Energie emmagasinée : E_m = \\frac{1}{2} L \\cdot i^2",
+              "u_L(t) proportionnelle à \\frac{di}{dt}",
+              "Principe de fonctionnement d’un alternateur",
+              "Principe de fonctionnement d’un transformateur"
+            ]
+          },
+          "11_OSCILLATIONS_ELECTRIQUES_LIBRES": {
+            "nom": "11 Oscillations Electriques Libres",
+            "concepts": [
+              "Circuit RLC série",
+              "Oscillations libres",
+              "Régime pseudopériodique",
+              "Régime apériodique",
+              "Amortissement",
+              "Equation différentielle des oscillations libres",
+              "Transfert d’énergie vers le milieu extérieur",
+              "Circuit LC",
+              "Fréquence propre N_0",
+              "Energie totale : E = \\frac{1}{2} C \\cdot u^2 + \\frac{1}{2} L \\cdot i^2",
+              "Non conservation de l’énergie totale"
+            ]
+          },
+          "12_OSCILLATIONS_FORCEES_D_UN_PENDULE_ELASTIQUE_EN_REGIME_SINUSOIDAL": {
+            "nom": "12 Oscillations Forcees D Un Pendule Elastique En Regime Sinusoidal",
+            "concepts": [
+              "Oscillations forcées",
+              "Résonateur",
+              "Excitateur",
+              "Tension excitatrice u(t)",
+              "Intensité du courant i(t)",
+              "Amplitude d’une grandeur oscillante sinusoïdale",
+              "Fréquence d’une grandeur oscillante sinusoïdale",
+              "Déphasage entre u(t) et i(t)",
+              "Résonance d’intensité à N_r = N_0",
+              "Résonance de charge à N_r < N_0",
+              "Equation différentielle des oscillations forcées en i(t) ou q(t)",
+              "Intensité maximale I_m",
+              "Charge maximale Q_m",
+              "Impédance Z",
+              "Puissance moyenne absorbée",
+              "Facteur de surtension Q = \\frac{L \\omega_0}{R}",
+              "Importance du phénomène de résonance"
+            ]
+          }
+        }
+      },
+      "UNITE_II_EVOLUTION_D_UN_SYSTEME_MECANIQUE_LE_PENDULE_ELASTIQUE": {
+        "nom": "Ii Evolution D Un Systeme Mecanique Le Pendule Elastique",
+        "themes": {
+          "13_OSCILLATIONS_LIBRES_D_UN_PENDULE_ELASTIQUE": {
+            "nom": "13 Oscillations Libres D Un Pendule Elastique",
+            "concepts": [
+              "Pendule élastique",
+              "Oscillations libres",
+              "Période propre T_0 = 2\\pi \\sqrt{\\frac{m}{k}}",
+              "Raideur du ressort k",
+              "Masse du solide m",
+              "Energie totale",
+              "Energie potentielle élastique : E_{pe} = \\frac{1}{2} k \\Delta \\ell^2",
+              "Régime amorti",
+              "Régime non amorti",
+              "Non conservation de l’énergie totale",
+              "Frottements visqueux : \\overrightarrow{f} = -h \\cdot \\overrightarrow{v}",
+              "Coefficient de frottement h",
+              "Relation fondamentale de la dynamique"
+            ]
+          },
+          "14_OSCILLATIONS_FORCEES_D_UN_PENDULE_ELASTIQUE": {
+            "nom": "14 Oscillations Forcees D Un Pendule Elastique",
+            "concepts": [
+              "Oscillations forcées",
+              "Résonance d’élongation à N_r < N_0",
+              "Equation différentielle des oscillations mécaniques forcées en x ou v",
+              "Elongation maximale X_m",
+              "Vitesse maximale V_m",
+              "Fréquence N de l’excitateur",
+              "Résonance de vitesse",
+              "Puissance mécanique moyenne",
+              "Analogie formelle électrique-mécanique",
+              "Régime sinusoïdal"
+            ]
+          }
+        }
+      },
+      "UNITE_III_ONDES_MECANIQUES_PROGRESSIVES": {
+        "nom": "Iii Ondes Mecaniques Progressives",
+        "themes": {
+          "15_ONDES_MECANIQUES_PROGRESSIVES": {
+            "nom": "15 Ondes Mecaniques Progressives",
+            "concepts": [
+              "Onde transversale",
+              "Onde longitudinale",
+              "Propagation d’énergie sans transport de matière",
+              "Célérité v",
+              "Milieu homogène et isotrope",
+              "Equation horaire du mouvement",
+              "Périodicité temporelle T",
+              "Périodicité spatiale (longueur d’onde \\lambda)",
+              "Diagramme du mouvement d’un point",
+              "Aspect du milieu à un instant donné"
+            ]
+          },
+          "16_NATURE_ONDULATOIRE_DE_LA_LUMIERE_DIFFRACTION_ET_DISPERSION": {
+            "nom": "16 Nature Ondulatoire De La Lumiere Diffraction Et Dispersion",
+            "concepts": [
+              "Caractère ondulatoire de la lumière",
+              "Diffraction mécanique",
+              "Diffraction lumineuse",
+              "Quotient \\frac{\\lambda}{a}",
+              "Longueur d’onde \\lambda",
+              "Largeur de la fente a",
+              "Dispersion de la lumière",
+              "Milieu dispersif",
+              "Milieu non dispersif",
+              "Radiations monochromatiques",
+              "Indice de réfraction dépendant de la couleur"
+            ]
+          }
+        }
+      },
+      "UNITE_IV_SPECTRE_ATOMIQUE": {
+        "nom": "Iv Spectre Atomique",
+        "themes": {
+          "17_SPECTRE_ATOMIQUE": {
+            "nom": "17 Spectre Atomique",
+            "concepts": [
+              "Quantification de l’énergie de l’atome",
+              "Energie de l’atome d’hydrogène : E_n = -\\frac{E_0}{n^2}, E_0 = 13,6 \\, \\text{eV}",
+              "Spectre d’émission",
+              "Spectre d’absorption",
+              "Relation \\Delta E = h \\cdot \\nu",
+              "Quantum d’énergie : W = h \\cdot \\nu = \\frac{hc}{\\lambda}",
+              "Constante de Planck h",
+              "Etat fondamental",
+              "Etat excité",
+              "Identification d’un élément chimique",
+              "Spectre de la lumière émise par une étoile"
+            ]
+          }
+        }
+      },
+      "UNITE_V_PHYSIQUE_NUCLEAIRE": {
+        "nom": "V Physique Nucleaire",
+        "themes": {
+          "18_LE_NOYAU_ATOMIQUE": {
+            "nom": "18 Le Noyau Atomique",
+            "concepts": [
+              "Symbole du noyau : \\frac{A}{Z}X",
+              "Forces nucléaires (interaction forte)",
+              "Défaut de masse",
+              "Energie de liaison",
+              "Energie de liaison par nucléon",
+              "Stabilité des noyaux",
+              "Energie en joules et en MeV",
+              "Unité \\text{MeV} \\cdot \\text{c}^{-2}",
+              "Courbe d’Aston"
+            ]
+          },
+          "19_REACTIONS_NUCLEAIRES": {
+            "nom": "19 Reactions Nucleaires",
+            "concepts": [
+              "Radioactivité",
+              "Radioactivité naturelle",
+              "Radioactivité artificielle",
+              "Rayonnements radioactifs",
+              "Loi de désintégration radioactive",
+              "Période ou demi-vie",
+              "Activité d’un échantillon radioactif",
+              "Effet biologique",
+              "Datation par le carbone 14",
+              "Réactions nucléaires spontanées",
+              "Réactions nucléaires provoquées",
+              "Fission nucléaire",
+              "Fusion nucléaire",
+              "Energie nucléaire",
+              "Energie du Soleil",
+              "Conservation du nombre de nucléons",
+              "Conservation des charges électriques",
+              "Energie libérée"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
